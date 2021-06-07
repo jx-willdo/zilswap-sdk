@@ -23,9 +23,9 @@ Initialize the sdk based on the required network, then call the required methods
 
 ### Methods
 
-All public methods for [`Zilswap` SDK object](./docs/modules/index.md). 
-All public methods for [`Zilo` SDK object](./docs/modules/zilo.md). 
-Full typescript definitions can also be found in the [doc folder](./docs/modules.md).
+All public methods for [`Zilswap` SDK object](./classes/index.zilswap.md). <br />
+All public methods for [`Zilo` SDK object](./classes/zilo.zilo-1.md).  <br />
+Full typescript definitions can also be found in the [doc folder](modules.md).
 
 The following is a list of methods to quickly get you started:
 
